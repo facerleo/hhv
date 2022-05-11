@@ -1,6 +1,6 @@
 {
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "hhv666",
+  "description": "部署",
   "keywords": [
     "v2ray VMess VLESS"
   ],
@@ -17,7 +17,7 @@
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/ray",
+      "value": "/kjghddfo456y87",
       "required": true
     }
   },
